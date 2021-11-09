@@ -14,7 +14,7 @@ Hi partner!
 howdy!
 
 ```{r Task 1}
-plot(cars)
+plot(cars) 
 ```
 
 
