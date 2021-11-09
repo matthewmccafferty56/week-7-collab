@@ -12,3 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi partner!
 
 howdy!
+
+```{r Task 1}
+plot(cars)
+```
+
+
+```{r task 2}
+plot(cars)
+```
+
